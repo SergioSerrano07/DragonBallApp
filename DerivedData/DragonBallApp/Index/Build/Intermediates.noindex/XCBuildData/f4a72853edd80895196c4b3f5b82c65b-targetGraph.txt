@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+DragonBallApp in DragonBallApp, no dependencies
+DragonBallApp in DragonBallApp, no dependencies
+DragonBallAppTests in DragonBallApp, depends on:
+DragonBallApp in DragonBallApp (explicit)
+DragonBallAppTests in DragonBallApp, depends on:
+DragonBallApp in DragonBallApp (explicit)
+DragonBallAppTests in DragonBallApp, no dependencies
+DragonBallAppUITests in DragonBallApp, depends on:
+DragonBallApp in DragonBallApp (explicit)
+DragonBallAppUITests in DragonBallApp, depends on:
+DragonBallApp in DragonBallApp (explicit)
+DragonBallAppUITests in DragonBallApp, no dependencies

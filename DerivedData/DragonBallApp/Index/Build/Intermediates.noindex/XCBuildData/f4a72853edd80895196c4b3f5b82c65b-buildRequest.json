@@ -1,0 +1,67 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "014ff2a571654b52885eb8365138b1eed5434e353a694060c261d141f930b2cc"
+    },
+    {
+      "guid" : "014ff2a571654b52885eb8365138b1ee34a03a87fecacb6fa16228ac9dee9ff8"
+    },
+    {
+      "guid" : "014ff2a571654b52885eb8365138b1eea099d56c588d283704aeecca4b79ccf0"
+    }
+  ],
+  "containerPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64",
+        "arm64e",
+        "arm64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Index/Build/Products",
+      "derivedDataPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DerivedData/DragonBallApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

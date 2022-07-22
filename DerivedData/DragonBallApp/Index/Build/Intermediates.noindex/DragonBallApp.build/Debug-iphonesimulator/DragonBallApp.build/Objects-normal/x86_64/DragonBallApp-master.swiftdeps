@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "8c4cc6af5aa52971e01f674ffd838d93ae7f5fc1782ce61508382f6e0020383f"
+build_start_time: [1658501967, 31653881]
+build_end_time: [1658501970, 141942024]
+inputs:
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/AppDelegate.swift": [1658501959, 143696308]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/SceneDelegate.swift": [1658501959, 150399923]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/ViewController.swift": [1658501959, 152744054]
