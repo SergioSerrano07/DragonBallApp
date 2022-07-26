@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1658866226, 963703155]
+build_end_time: [1658866227, 306542873]
+inputs:
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/App/AppDelegate.swift": [1658501959, 143696308]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/App/SceneDelegate.swift": [1658851850, 797971248]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/Domain/Models/CharacterModel.swift": [1658866189, 364921331]
+  ? "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Detail/Controllers/DetailViewController.swift"
+  : [1658856528, 522161722]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Detail/ViewModels/DetailViewModel.swift": [1658855871, 208034515]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Home/Controllers/CellView.swift": [1658851850, 825155735]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Home/Controllers/HomeViewController.swift": [1658861907, 179890155]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Home/Models/HomeCellModel.swift": [1658851850, 839066028]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Home/ViewModels/HomeViewModel.swift": [1658854813, 250868558]
+  ? "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Splash/Controllers/SplashViewController.swift"
+  : [1658863891, 461867570]
+  "/Users/unlock/Documents/Workspace/KeepCoding/Patrones/DragonBallApp/DragonBallApp/UI/Splash/ViewModels/SplashViewModel.swift": [1658863708, 630618095]

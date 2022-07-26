@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7C1EC58B84FC60AE916378BCA998B6BF95339443",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7C1EC58B84FC60AE916378BCA998B6BF95339443" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "276267E2-5A99-4EA7-A97F-2907480FEB40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7C1EC58B84FC60AE916378BCA998B6BF95339443" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DragonBallApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DragonBallApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:SergioSerrano07\/DragonBallApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C1EC58B84FC60AE916378BCA998B6BF95339443"
+    }
+  ]
+}
